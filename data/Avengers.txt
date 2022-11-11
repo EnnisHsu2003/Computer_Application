@@ -1,0 +1,33 @@
+CaptainAmerica 
+SpiderMan 
+Thor
+BlackWidow
+Hulk
+Hawkeye
+Vision
+Quicksilver
+ScarletWitch
+Dr.Strange
+Wolverine 
+IronMan
+AntMan
+WonderMan 
+BlackPanther
+
+Steven Grant Rogers
+Peter Benjamin Parker
+Thor Odinson
+Natasha Alianovna Romanoff
+Dr. Robert Bruce Banner
+Clinton Francis Barton
+Victor Shade
+Pietro Maximoff 
+Wanda Maximoff 
+Stephen Vincent Strange
+James "Logan" Howlett
+Tony Edward Stark
+Dr. Henry Jonathan Pym
+Simon Williams
+T'Challa
+
+
